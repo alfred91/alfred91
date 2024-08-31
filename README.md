@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alfred <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate FullStack developer from Spain</h3>
 
-- 🔭 I’m currently working on my **Laravel Project on AWS**
+- 🔭 Take a look to my **Laravel Project on AWS**
 
-- 🌱 I’m currently learning **React, Laravel and NodeJS**
+- 🌱 I’m currently working on **React, Laravel and NodeJS**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
